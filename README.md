@@ -14,11 +14,3 @@ Streamlit
 Natural Language Processing (NLP)
 CNN + BiLSTM model
 Pickle (for tokenizer)
-
-🧾 Requirements to run this project
-streamlit
-numpy
-tensorflow
-scikit-learn
-keras
-pandas
